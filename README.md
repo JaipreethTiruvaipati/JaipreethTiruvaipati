@@ -19,7 +19,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 3rd Semester | CGPA: **9.36/10** | Top ranker at IIITM Gwalior
+- 🎓 3rd Semester | CGPA: **9.36/10** |
 - 🔧 Backend Systems | Distributed Computing | Machine Learning
 - 🧮 Strong foundations in DSA, OS, CN, DBMS, and Probability
 - 💻 Competitive Programmer (CP) across major platforms
