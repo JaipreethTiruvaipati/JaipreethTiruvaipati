@@ -1,41 +1,80 @@
-# Hi there, I'm Jaipreeth 👋
-<a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
-<a href="#"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="#"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=AtCoder&logoColor=white" alt="AtCoder"></a>
+<h1 align="center">Hi, I'm Jaipreeth 👋</h1>
 
-I'm a B.Tech student in Mathematics and Scientific Computing at the Indian Institute of Information Technology and Management, Gwalior[cite: 15], with a passion for building scalable backend systems and intelligent applications. My focus is on using Go and Python to engineer high-performance solutions for complex problems in finance and supply chain logistics. I thrive on translating theoretical algorithms into practical, impactful software.
+<p align="center">
+  <i>Tiruvaipati Sree Ranga Lakshmi Sai Jaipreeth</i><br>
+  <strong>B.Tech in Mathematics and Scientific Computing @ IIITM Gwalior (2023–2027)</strong><br>
+  Passionate about building intelligent, scalable systems for finance and supply chain.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaipreethtiruvaipati"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/JaipreethTiruvaipati"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/jaipreethtiruvaipati/"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat&logo=leetcode&logoColor=#FFA116"/></a>
+  <a href="https://codeforces.com/profile/jaipreeth_tsrls"><img src="https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=flat&logo=codeforces&logoColor=white"/></a>
+  <a href="https://atcoder.jp/users/jaipreeth_tsrls"><img src="https://img.shields.io/badge/AtCoder-%23000000.svg?style=flat&logo=atcoder&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/jaipreethtsrls"><img src="https://img.shields.io/badge/CodeChef-%23DE621B.svg?style=flat&logo=codechef&logoColor=white"/></a>
+  <a href="https://algozenith.com/profile/jaipreeth-tsrls"><img src="https://img.shields.io/badge/AlgoZenith-%23161616.svg?style=flat"/></a>
+</p>
+
+---
+
+### 🧠 About Me
+- 🎓 3rd Semester | CGPA: **9.36/10** | Top ranker at IIITM Gwalior
+- 🔧 Backend Systems | Distributed Computing | Machine Learning
+- 🧮 Strong foundations in DSA, OS, CN, DBMS, and Probability
+- 💻 Competitive Programmer (CP) across major platforms
+- 🧵 Love turning theoretical models into real-world applications
+- 📸 Also into photography and storytelling @ [Instagram](https://www.instagram.com/jaipreethtiruvaipati)
+- 🐦 Follow me on [Twitter](https://x.com/TSRLS_Jaipreeth)
 
 ---
 
 ### 🛠️ My Tech Stack
-[cite_start]Here are some of the key technologies I work with, as seen in my projects[cite: 50, 51, 52]:
 
-| Category | Technologies |
-|---|---|
-| **Languages** | <p><img src="https://skillicons.dev/icons?i=go,python,cpp,c" alt="Languages"></p> |
-| **Backend** | <p><img src="https://skillicons.dev/icons?i=fastapi,postgres,redis" alt="Backend"></p> |
-| **ML/Data** | <p><img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,py" alt="ML & Data"></p> |
-| **Tools & DevOps**| <p><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,kafka" alt="Tools & DevOps"></p> |
+| Languages | Backend | ML/Data | DevOps | Databases |
+|--|--|--|--|--|
+| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=py) ![Go](https://skillicons.dev/icons?i=go) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Golang](https://skillicons.dev/icons?i=go) | ![Sklearn](https://skillicons.dev/icons?i=scikit-learn) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Jupyter](https://skillicons.dev/icons?i=jupyter) | ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Kafka](https://skillicons.dev/icons?i=apachekafka) ![AWS](https://skillicons.dev/icons?i=aws) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) |
 
 ---
 
-### 🚀 My Featured Projects
-Here are some of the projects I'm proud of. You can find more on my repositories tab!
+### 🚀 Featured Projects
 
-| Project | Description | Key Technologies |
-|---|---|---|
-| **[FinTrack](https://github.com/JaipreethTiruvaipati/FinTrack)** | [cite_start]A full-stack expense forecasting app that processes over 1,000,000 data points [cite: 31] [cite_start]and achieves >90% prediction accuracy[cite: 33]. | `Python`, `FastAPI`, `React`, `Prophet` |
-| **[Mumosa](https://github.com/JaipreethTiruvaipati/Mumosa)** | [cite_start]An AI-driven dashboard to optimize the supply chain for 50+ retail stores [cite: 36][cite_start], aiming to reduce stockouts by 30%[cite: 37]. | `Go`, `React`, `Python`, `LSTM`, `Google OR-Tools` |
-| **[FinOptima](https://github.com/JaipreethTiruvaipati/FinOptima)** | [cite_start]A real-time financial system designed to process >10,000 TPS [cite: 41] [cite_start]with sub-200ms fraud detection using Kafka and XGBoost[cite: 42]. | `Go`, `Kafka`, `XGBoost`, `PostgreSQL`, `MongoDB` |
-| **[NetGuardAI](https://github.com/JaipreethTiruvaipati/NetGuardAI)** | [cite_start]A cybersecurity platform to monitor 1 Gbps network traffic [cite: 46] [cite_start]and detect DDoS attacks with >98% accuracy using ML models[cite: 47]. | `Go`, `Python`, `Kafka`, `LSTM`, `Redis` |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **[FinTrack](https://github.com/JaipreethTiruvaipati/FinTrack)** | Full-stack expense forecasting system processing 1M+ records with 90%+ prediction accuracy. | `FastAPI`, `React`, `Prophet`, `Pandas` |
+| **[Mumosa](https://github.com/JaipreethTiruvaipati/Mumosa)** | AI-powered retail supply chain system for 50+ stores — predicts demand and optimizes delivery. | `Go`, `React`, `LSTM`, `Google OR-Tools` |
+| **[FinOptima](https://github.com/JaipreethTiruvaipati/FinOptima)** | High-performance fintech system capable of >10k TPS with real-time fraud detection. | `Go`, `Kafka`, `PostgreSQL`, `XGBoost`, `MongoDB` |
+| **[NetGuardAI](https://github.com/JaipreethTiruvaipati/NetGuardAI)** | Monitors 1 Gbps traffic and detects cyber attacks with 98%+ ML accuracy. | `Go`, `Python`, `Redis`, `Kafka`, `LSTM` |
 
 ---
 
-### 📊 My GitHub Stats
-These stats will automatically update based on your activity.
+### 🏆 Highlights
+- 🥇 **Perfect 10 GPA** in Semester 3 | Rank 1
+- 🏅 **MCM Scholarship** for consistent academic performance
+- 🎯 **Certificate of Excellence** – Indian CP Summer Camp 2025
+- 📢 **Founder** of Team Echo – Official Outreach Cell
+- 🎬 Executive @ Uthaan | 🎙️ Organizer @ Enigma
+- 🔥 Organized 5+ college tech events with 200+ participants
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaipreethTiruvaipati&show_icons=true&theme=dracula&rank_icon=github" alt="Jaipreeth's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaipreethTiruvaipati&layout=compact&theme=dracula" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaipreethTiruvaipati&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaipreethTiruvaipati&layout=compact&theme=radical" width="48%" />
 </p>
+
+---
+
+### 📬 Contact Me
+- 📧 Email: jaipreethtsrls17@gmail.com
+- 📱 Phone: +91-93981-97626
+
+---
+
+> “Engineering scalable systems is not just about code — it’s about **understanding complexity and transforming it into clarity.**”
+
+---
+
+Would you like me to generate a Markdown file (`README.md`) with this content so you can directly upload it to your GitHub profile repository?
