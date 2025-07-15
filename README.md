@@ -41,10 +41,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **[FinTrack](https://github.com/JaipreethTiruvaipati/FinTrack)** | Full-stack expense forecasting system processing 1M+ records with 90%+ prediction accuracy. | `FastAPI`, `React`, `Prophet`, `Pandas` |
+| **[FinTrack](https://github.com/JaipreethTiruvaipati/fintrack)** | Full-stack expense forecasting system processing 1M+ records with 90%+ prediction accuracy. | `FastAPI`, `React`, `Prophet`, `Pandas` |
 | **[Mumosa](https://github.com/JaipreethTiruvaipati/Mumosa)** | AI-powered retail supply chain system for 50+ stores — predicts demand and optimizes delivery. | `Go`, `React`, `LSTM`, `Google OR-Tools` |
-| **[FinOptima](https://github.com/JaipreethTiruvaipati/FinOptima)** | High-performance fintech system capable of >10k TPS with real-time fraud detection. | `Go`, `Kafka`, `PostgreSQL`, `XGBoost`, `MongoDB` |
-| **[NetGuardAI](https://github.com/JaipreethTiruvaipati/NetGuardAI)** | Monitors 1 Gbps traffic and detects cyber attacks with 98%+ ML accuracy. | `Go`, `Python`, `Redis`, `Kafka`, `LSTM` |
+| **[FinOptima](https://github.com/JaipreethTiruvaipati/finoptima)** | High-performance fintech system capable of >10k TPS with real-time fraud detection. | `Go`, `Kafka`, `PostgreSQL`, `XGBoost`, `MongoDB` |
+| **[NetGuardAI](https://github.com/JaipreethTiruvaipati/sentinet)** | Monitors 1 Gbps traffic and detects cyber attacks with 98%+ ML accuracy. | `Go`, `Python`, `Redis`, `Kafka`, `LSTM` |
 
 ---
 
