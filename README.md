@@ -4,7 +4,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
 <a href="#"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=AtCoder&logoColor=white" alt="AtCoder"></a>
 
-[cite_start]I'm a B.Tech student in Mathematics and Scientific Computing at the Indian Institute of Information Technology and Management, Gwalior[cite: 15], with a passion for building scalable backend systems and intelligent applications. My focus is on using Go and Python to engineer high-performance solutions for complex problems in finance and supply chain logistics. I thrive on translating theoretical algorithms into practical, impactful software.
+I'm a B.Tech student in Mathematics and Scientific Computing at the Indian Institute of Information Technology and Management, Gwalior[cite: 15], with a passion for building scalable backend systems and intelligent applications. My focus is on using Go and Python to engineer high-performance solutions for complex problems in finance and supply chain logistics. I thrive on translating theoretical algorithms into practical, impactful software.
 
 ---
 
