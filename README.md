@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jaipreethtiruvaipati"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/JaipreethTiruvaipati"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/jaipreethtiruvaipati/"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat&logo=leetcode&logoColor=#FFA116"/></a>
+  <a href="https://leetcode.com/jaipreeth_tsrls/"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat&logo=leetcode&logoColor=#FFA116"/></a>
   <a href="https://codeforces.com/profile/jaipreeth_tsrls"><img src="https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=flat&logo=codeforces&logoColor=white"/></a>
   <a href="https://atcoder.jp/users/jaipreeth_tsrls"><img src="https://img.shields.io/badge/AtCoder-%23000000.svg?style=flat&logo=atcoder&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/jaipreethtsrls"><img src="https://img.shields.io/badge/CodeChef-%23DE621B.svg?style=flat&logo=codechef&logoColor=white"/></a>
