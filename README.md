@@ -13,7 +13,7 @@
   <a href="https://codeforces.com/profile/jaipreeth_tsrls"><img src="https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=flat&logo=codeforces&logoColor=white"/></a>
   <a href="[https://atcoder.jp/users/jaipreeth_tsrls](https://atcoder.jp/users/Jaipreeth)"><img src="https://img.shields.io/badge/AtCoder-%23000000.svg?style=flat&logo=atcoder&logoColor=white"/></a>
   <a href="[https://www.codechef.com/users/jaipreethtsrls](https://www.codechef.com/users/jaipreeth_t)"><img src="https://img.shields.io/badge/CodeChef-%23DE621B.svg?style=flat&logo=codechef&logoColor=white"/></a>
-  <a href="https://algozenith.com/profile/jaipreeth-tsrls"><img src="https://img.shields.io/badge/AlgoZenith-%23161616.svg?style=flat"/></a>
+  <a href="[https://algozenith.com/profile/jaipreeth-tsrls](https://maang.in/profile)"><img src="https://img.shields.io/badge/AlgoZenith-%23161616.svg?style=flat"/></a>
 </p>
 
 ---
