@@ -49,7 +49,7 @@
 ---
 
 ### 🏆 Highlights
-- 🥇 **Perfect 10 GPA** in Semester 3 | Rank 1
+- 🥇 **Perfect 10 GPA** in Semester 3 | 
 - 🏅 **MCM Scholarship** for consistent academic performance
 - 🎯 **Certificate of Excellence** – Indian CP Summer Camp 2025
 - 📢 **Founder** of Team Echo – Official Outreach Cell
