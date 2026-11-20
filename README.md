@@ -63,7 +63,7 @@ Upload a UPI receipt. Pebble scores each item for impulsiveness, and the penalty
 
 ### More builds
 
-| | |
+| Project | What it does |
 |---|---|
 | [**Tripora**](https://github.com/JaipreethTiruvaipati/cabflow) | Job scheduler on a 3+ node cluster. Kill or freeze any node and no job is lost, no alert is sent twice. Go + PostgreSQL only. |
 | [**CONTRAST**](https://github.com/JaipreethTiruvaipati/Contrast) | Scans SafeTensors model files for tampering without executing them. Outputs JSON, SARIF and CycloneDX ML-BOM. |
@@ -73,7 +73,7 @@ Upload a UPI receipt. Pebble scores each item for impulsiveness, and the penalty
 
 ## 💼 Where I've worked
 
-| | Role | What I did |
+| Company | Role | What I did |
 |---|---|---|
 | **Flagright (YC W22)** · Sep–Nov 2026 | Software Developer Intern | Backend for an AML compliance platform: transaction monitoring, sanctions screening, rule evaluation. TypeScript, AWS, DynamoDB, ClickHouse, OpenSearch. |
 | **Acadza** · Feb–Apr 2026 | Software Engineering Intern | AI ingestion pipeline that cut cost per question **85%** (₹10 → ₹1.5). Equation accuracy **40% → 92%**, duplicate precision **78% → 94%** across 50K+ questions. |
